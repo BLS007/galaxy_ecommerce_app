@@ -1,4 +1,4 @@
-# Notes App
+# Galaxy Ecommerce App
 ## An e-commerce website (using REACT.js, Bootstrap & Redux) where customers can find products based on a specific category, add product(s) to their cart and checkout their items by importing their payment information.
 
 ### Home Page
