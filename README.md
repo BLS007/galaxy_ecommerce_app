@@ -1,5 +1,5 @@
 # Notes App
-## A single webpage using REACT that allows you to add as many notes as you would like. You can add, edit, delete, and also click on a note to mark it as finished.
+## An e-commerce website (using REACT.js, Bootstrap & Redux) where customers can find products based on a specific category, add product(s) to their cart and checkout their items by importing their payment information.
 
 ### Home Page
 
